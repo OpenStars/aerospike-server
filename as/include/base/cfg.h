@@ -61,7 +61,7 @@ struct as_namespace_s;
 //
 
 #ifndef AS_NAMESPACE_SZ
-#define AS_NAMESPACE_SZ 2
+#define AS_NAMESPACE_SZ 32
 #endif
 
 #define AS_CLUSTER_NAME_SZ 65
